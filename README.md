@@ -1,6 +1,6 @@
 # About me
 My name is Martin Němec, computer graphics, game programmer and frest graduate from Czech Technical University in Prague.
-I'm game programming enthusiast. I love programming games by creating the logic and technology, which makes the game what it is.
+I'm game programming enthusiast. I love programming games by creating the logic, tools and technology, which makes the game what it is.
 
 # Languages
 - C/C++
