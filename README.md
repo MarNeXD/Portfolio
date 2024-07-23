@@ -10,7 +10,7 @@ I'm game programming enthusiast. I love programming games by creating the logic,
 # Projects
 
 ## Slime element
-3D tower defense game in Unreal Engine 6 made as my Bachelor thesis. The player has a goal to fight through waves of slime enemies and defend the road by building multiple of towers, which can be upgrades by combining different elements together to create new powerful towers. This was the first large game I made. [link](https://marnex2k.itch.io/the-slime-element)
+3D tower defense game in Unreal Engine 4.6 made as my Bachelor thesis. The player has a goal to fight through waves of slime enemies and defend the road by building multiple of towers, which can be upgrades by combining different elements together to create new powerful towers. This was the first large game I made. [link](https://marnex2k.itch.io/the-slime-element)
 
 ![](Images/SlimeElement1.png)  |  ![](Images/SlimeElement2.png)
 :-------------------------:|:-------------------------:
