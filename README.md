@@ -1,5 +1,5 @@
 # About me
-My name is Martin Němec, computer graphics, game programmer and frest graduate from Czech Technical University in Prague.
+My name is Martin Němec, computer graphics, game programmer and fresh graduate from Czech Technical University in Prague.
 I'm game programming enthusiast. I love programming games by creating the logic, tools and technology, which makes the game what it is.
 
 # Languages
@@ -45,7 +45,7 @@ Potentially visible set    |  Partition to cells and portals
 ## Modelling
 I like to create models and drawing too. These are some models I have created for different subjects. [link](https://github.com/MarNeXD/Modeling)
 
-![](Images/Modelling1.png)  |  <img src="Images/Modelling2.jpg" width="600">
+![](Images/Modelling1.png)  |  ![](Images/Modelling2.png)
 :-------------------------:|:-------------------------:
 Ford Mustang GT 3D model (Material, baked textures) | Ford Mustang GT vector graphics
 
